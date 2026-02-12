@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
+| [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->

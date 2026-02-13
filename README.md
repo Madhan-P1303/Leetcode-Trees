@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3714-longest-balanced-substring-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3714-longest-balanced-substring-ii) |
 ## Counting
 |  |
 | ------- |

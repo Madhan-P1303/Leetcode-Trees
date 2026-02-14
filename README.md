@@ -85,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0799-champagne-tower](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0799-champagne-tower) |
 <!---LeetCode Topics End-->

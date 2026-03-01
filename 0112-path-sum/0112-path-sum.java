@@ -19,9 +19,7 @@ class Solution {
             return false;
         }
         if(root.left==null&&root.right==null){
-            if((targetSum-root.val)==0){
-                return true;
-            }
+           return targetSum-root.val==0;
         }
         targetSum-=root.val;
 

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0101-symmetric-tree) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0101-symmetric-tree) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0799-champagne-tower](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0799-champagne-tower) |
 ## Bit Manipulation
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find

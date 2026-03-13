@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
 ## Binary Search
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -202,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0021-merge-two-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->

@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
 ## Prefix Sum
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
+| [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -210,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Design
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->

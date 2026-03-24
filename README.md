@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0693-binary-number-with-alternating-bits) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0401-binary-watch) |
 ## Rolling Hash
 |  |

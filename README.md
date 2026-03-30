@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3714-longest-balanced-substring-ii) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3714-longest-balanced-substring-ii) |

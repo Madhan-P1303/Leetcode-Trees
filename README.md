@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0239-sliding-window-maximum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Design
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0239-sliding-window-maximum) |
 ## Memoization
 |  |
 | ------- |
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3474-lexicographically-smallest-generated-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

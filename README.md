@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Depth-First Search
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2906-construct-product-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |

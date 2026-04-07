@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |

@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3721-longest-balanced-subarray-ii) |
 ## Greedy
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-decode-the-slanted-ciphertext](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Matrix
 |  |
 | ------- |

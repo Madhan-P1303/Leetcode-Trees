@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3661-maximum-walls-destroyed-by-robots) |

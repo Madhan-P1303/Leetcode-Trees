@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3474-lexicographically-smallest-generated-string) |

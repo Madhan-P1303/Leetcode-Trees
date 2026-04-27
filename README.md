@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Search Tree
 |  |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1594-maximum-non-negative-product-in-a-matrix) |

@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1143-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Queue
 |  |

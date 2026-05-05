@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |

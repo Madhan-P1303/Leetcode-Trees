@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3488-closest-equal-element-queries) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
 | ------- |

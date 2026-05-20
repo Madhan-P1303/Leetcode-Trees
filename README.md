@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
 | [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
 | [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
 | [2833-furthest-point-from-origin](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration

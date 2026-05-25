@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0061-rotate-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1861-rotating-the-box) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0345-reverse-vowels-of-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0657-robot-return-to-origin) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0796-rotate-string) |

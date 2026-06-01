@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0198-house-robber](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0198-house-robber) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0322-coin-change) |
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |

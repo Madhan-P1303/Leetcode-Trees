@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3660-jump-game-ix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3660-jump-game-ix) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3488-closest-equal-element-queries) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Divide and Conquer
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1861-rotating-the-box) |
 | [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -279,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## String
 |  |

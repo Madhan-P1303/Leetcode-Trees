@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0199-binary-tree-right-side-view) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Array
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
 | [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
@@ -210,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1345-jump-game-iv) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
 | [2540-minimum-common-value](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2615-sum-of-distances) |

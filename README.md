@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |

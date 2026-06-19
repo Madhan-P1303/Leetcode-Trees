@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0874-walking-robot-simulation) |
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
+| [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1306-jump-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1732-find-the-highest-altitude) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 ## Memoization
 |  |
 | ------- |

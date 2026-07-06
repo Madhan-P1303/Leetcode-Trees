@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1288-remove-covered-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1306-jump-game-iii) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
+| [1288-remove-covered-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1288-remove-covered-intervals) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1833-maximum-ice-cream-bars) |

@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
 | [0874-walking-robot-simulation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -736,4 +739,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

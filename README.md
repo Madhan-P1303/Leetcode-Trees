@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1301-number-of-paths-with-max-score) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1732-find-the-highest-altitude) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -549,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
@@ -760,13 +764,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

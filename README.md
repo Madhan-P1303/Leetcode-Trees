@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
 | [2463-minimum-total-distance-traveled](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2463-minimum-total-distance-traveled) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1622-fancy-sequence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3161-block-placement-queries](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3719-longest-balanced-subarray-i) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2833-furthest-point-from-origin](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -607,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Simulation
 |  |

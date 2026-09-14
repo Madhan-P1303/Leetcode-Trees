@@ -619,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
+| [0836-rectangle-overlap](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -788,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0836-rectangle-overlap) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Number Theory
 |  |

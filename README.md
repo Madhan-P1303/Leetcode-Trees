@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1833-maximum-ice-cream-bars) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1386-cinema-seat-allocation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2453-destroy-sequential-targets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2453-destroy-sequential-targets) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1840-maximum-building-height) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |

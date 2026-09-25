@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0874-walking-robot-simulation) |
+| [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1345-jump-game-iv) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Rolling Hash
 |  |
@@ -631,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0094-binary-tree-inorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2751-robot-collisions) |
 ## Math

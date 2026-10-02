@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0424-longest-repeating-character-replacement) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0401-binary-watch) |
@@ -939,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1386-cinema-seat-allocation) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
 | [0796-rotate-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0940-distinct-subsequences-ii) |
@@ -573,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0799-champagne-tower) |
 | [0877-stone-game](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0877-stone-game) |
@@ -651,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -947,6 +951,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |

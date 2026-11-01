@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0643-maximum-average-subarray-i) |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |

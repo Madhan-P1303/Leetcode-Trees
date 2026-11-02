@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0643-maximum-average-subarray-i) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0056-merge-intervals) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0761-special-binary-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0761-special-binary-string) |
 | [1096-brace-expansion-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1288-remove-covered-intervals) |
@@ -740,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0096-unique-binary-search-trees) |
 | [0396-rotate-function](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0788-rotated-digits) |

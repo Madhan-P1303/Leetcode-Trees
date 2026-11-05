@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1345-jump-game-iv) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1406-stone-game-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1406-stone-game-iii) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1861-rotating-the-box) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1340-jump-game-v) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Madhan-P1303/Leetcode-Trees/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
